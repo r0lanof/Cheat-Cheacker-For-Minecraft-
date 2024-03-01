@@ -1,11 +1,10 @@
-# Cheat-Cheacker-For-Minecraft-
+# Cheat-Cheacker-For-Minecraft
 ## English
-This program was created to search for cheats on your computer.
+This program was created to search for cheats on your computer. BY Rusmers
 # Socials
-- Discord: r0lanoff
-- Disocrd server: https://discord.gg/jjdk7kQsby
+- Discord: Rusmers
 ## Русский
 Эта программа создана для поиска читов на вашем компьютере.
 # Социальные сети
-- Discord: r0lanoff
-- Disocrd сервер: https://discord.gg/jjdk7kQsby
+- Discord: Rusmers
+
